@@ -67,7 +67,7 @@ To get started with the SCMS project, clone the repository and follow the instru
 
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/humm3ll/SCMS.git
 
 2. **Navigate to the Project Directory**:
 cd SCMS
